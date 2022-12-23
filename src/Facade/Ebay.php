@@ -6,7 +6,7 @@
  * Time: 3:19 PM
  */
 
-namespace Hkonnet\LaravelEbay\Facade;
+namespace Chrobane\LaravelEbay\Facade;
 
 
 use Illuminate\Support\Facades\Facade;
